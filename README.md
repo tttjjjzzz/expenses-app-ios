@@ -1,1 +1,1 @@
-# opium exoenses app
+# opium expenses app
